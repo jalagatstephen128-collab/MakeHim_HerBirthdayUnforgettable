@@ -14,7 +14,7 @@ STEP 1: OPEN THE CONFIGURATION FILE
    Global Configuration block:
 
    const CONFIG = {
-     name: 'Aditi',
+     name: 'Jessel',
      email: 'demo@gmail.com'
    };
 

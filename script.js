@@ -7,8 +7,8 @@
 
 /* ─── Global Configuration ─── */
 const CONFIG = {
-  name: 'Aditi',
-  email: 'demo@gmail.com'
+  name: 'Jessel',
+  email: 'jalagatstephen128@gmail.com'
 };
 
 const FORMSUBMIT_EMAIL = CONFIG.email;
